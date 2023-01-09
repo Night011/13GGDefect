@@ -35,7 +35,7 @@
 	],
 	"servers": [
 		{ "address": "51.254.85.134:7776", "id": 1 },
-		{ "address": "185.189.15.89:7228", "id": 2 }
+		{ "address": "185.189.15.89:7228", "id": 1000 }
 
 	],
 	"files": {
@@ -47,5 +47,4 @@
 		"vehicles": 4,
 		"skins": 1
 	},
-	"api_url": "https://api.13-GG.com/"
 }
