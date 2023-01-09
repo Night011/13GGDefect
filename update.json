@@ -1,7 +1,7 @@
 {
 	"latest": 49,
 	"version": "1.13 Release",
-	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG/main/13_GG.luac",
+	"updateurl":"https://raw.githubusercontent.com/Night011/13GGDefect/main/13_GG.luac",
 	"patch_load": true,
 	"critical": false,
 	"changes": [
